@@ -1,0 +1,1 @@
+Aplicando ss internamente em meu codigo html usandp a tag style
